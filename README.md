@@ -5,15 +5,15 @@ This problem is idenfied as regression problem which need to predict how much bu
 
 key areas here to demostrate:
 
-##1. Feature engineering##
-  ###a. Data Profiling
-  ###b. Data Cleaning
-  c. Data transformation
-  d. Data Scaling
-  e. Derived Features
+1. Feature engineering
+  1. Data Profiling
+  2. Data Cleaning
+  3. Data transformation
+  4. Data Scaling
+  5. Derived Features
 2. Model Training
-  a. Liner Models
-  b. Ensembel Models - Trees
-  c. Gradient Boot
+  1. Liner Models
+  2. Ensembel Models - Trees
+  3. Gradient Boot
   
 3. Final Prediction
