@@ -5,9 +5,9 @@ This problem is idenfied as regression problem which need to predict how much bu
 
 key areas here to demostrate:
 
-1. Feature engineering
-  a. Data Profiling
-  b. Data Cleaning
+##1. Feature engineering##
+  ###a. Data Profiling
+  ###b. Data Cleaning
   c. Data transformation
   d. Data Scaling
   e. Derived Features
